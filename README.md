@@ -1,10 +1,10 @@
-Welcome to my profile! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Anj.
+Welcome to my profile!
 ========================================================================================================================================
 
 Python Developer
 ----------------
 
-I'm a Physics graduate and Python proficient but would love to branch out. Here's my journey
+My name is Anchaly (call me Anj :))I'm a Physics graduate and Python proficient but would love to branch out. Here's my journey
 
 * ✉️  You can contact me at [anchalyeaswaran2000@gmail.com](mailto:anchalyeaswaran2000@gmail.com)
 * 🧠  I'm learning SQL and Java
