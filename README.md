@@ -7,7 +7,7 @@ Python Developer
 My name is Anchaly (call me Anj :) ) I'm a Physics graduate and Python proficient but would love to branch out. Here's my journey!!
 
 * ✉️  You can contact me at [anchalyeaswaran2000@gmail.com](mailto:anchalyeaswaran2000@gmail.com)
-* 🧠  I'm learning SQL and Java
+* 🧠  I'm currently developing a small platformer in Unity with C# scripting
 
 <a href="https://www.github.com/chief-nut" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/chief-nut?logo=github&style=for-the-badge&color=facc15&labelColor=831843" /></a>
